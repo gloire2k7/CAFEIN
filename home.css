@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding-left: 0px;
+}
+
+.container {/*nvabar*/
+    display: flex;
+    top: 0;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(255, 241, 241);
+    position: fixed;
+    justify-content: space-between;
+    padding: 0;
+
+}
